@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spaweb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: abhil
+Implementation-Vendor-Id: com.eos
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spaweb
+Created-By: Maven Integration for Eclipse
+
